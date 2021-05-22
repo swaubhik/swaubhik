@@ -1,7 +1,7 @@
 ### Hi there👋 I am Swaubhik Chakraborty
 
 
-- 🔭 I’m currently working on App Development
+- 🔭 I’m currently working on jekyll
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on App Development
 - 🤔 I’m looking for help with Web Development
