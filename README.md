@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117ebdd3fa95647662e4284b958fd65340d9da1fcb&rid=giphy.gif&ct=g" width="500" height="320" />
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! 👋🏻
 
 My name is Swaubhik Chakraborty and I'm a fullstack developer. I'm from India, living in Assam. You can contact me via <a href="mailto:swaunhik108@gmail.com"> swaubhik108@gmail.com </a>
 
