@@ -6,7 +6,7 @@ My name is Swaubhik Chakraborty and I'm a fullstack developer. I'm from India, l
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [swaubhik.com](https://swaubhik.vercel.app/)
+Apart from coding, I also maintain a blog - you can find my articles on my website at [swaubhik.com](https://swaubhik.netlify.app/)
 
 ## 🔧 Technologies & Tools
 
