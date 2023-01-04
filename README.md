@@ -36,6 +36,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ![snake gif](https://raw.githubusercontent.com/swaubhik/swaubhik/output/github-contribution-grid-snake.svg)
 
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=swaubhikc&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
+
 <!-- Resources -->
 
 <!-- Icons: https://simpleicons.org/
