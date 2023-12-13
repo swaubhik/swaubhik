@@ -34,11 +34,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://raw.githubusercontent.com/swaubhik/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/swaubhik/github-stats/master/generated/languages.svg)
 
-![snake gif](https://raw.githubusercontent.com/swaubhik/swaubhik/output/github-contribution-grid-snake.svg)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/swaubhik/langs)](https://githubtrends.io)
+
 
 <!-- Resources -->
 
 <!-- Icons: https://simpleicons.org/
+
+![snake gif](https://raw.githubusercontent.com/swaubhik/swaubhik/output/github-contribution-grid-snake.svg)
 GitHub Stats: https://github.com/anuraghazra/github-readme-stats
 Emojis: https://emojipedia.org/emoji/
 HTML Emojis: https://www.fileformat.info/index.htm
