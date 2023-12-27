@@ -29,7 +29,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ![](https://komarev.com/ghpvc/?username=swaubhik)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=swaubhik&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=swaubhik&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![](https://raw.githubusercontent.com/swaubhik/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/swaubhik/github-stats/master/generated/languages.svg)
